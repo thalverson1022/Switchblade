@@ -1,0 +1,5 @@
+./PEs/CH2NH-PE_N.dat
+./Masses/CH2NH-masses.dat
+./GridInfo/24Proc-GI.dat
+./Points/CH2NH/CH2NH-psp_0-10_HI.dat
+./Eigenvals/CH2NH-SG_0-10_N_HI_fix.txt
